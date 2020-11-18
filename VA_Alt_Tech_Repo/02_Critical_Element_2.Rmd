@@ -1,0 +1,13 @@
+# Critical Element 2 Assessment system operations
+
+### 2.1 Test Design and Development 
+
+#### 2.1A VAExt Purpose
+
+#### 2.1B VAExt Test Blueprint
+
+#### 2.1C Test Development Processes
+
+#### 2.1D Computer-Adaptive Considerations
+
+### 2.2 Item Development
