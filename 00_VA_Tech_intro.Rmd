@@ -18,19 +18,19 @@ and results of the system.
 ![](figures/peer_rev/PeerReview1.png)
 
 \newpage
-![](figures/peer_rev/PeerReview2.pdf)
+![](figures/peer_rev/PeerReview2.png)
 
 \newpage
-![](figures/peer_rev/PeerReview3.pdf)
+![](figures/peer_rev/PeerReview3.png)
 
 \newpage
-![](figures/peer_rev/PeerReview4.pdf)
+![](figures/peer_rev/PeerReview4.png)
 
 \newpage
-![](figures/peer_rev/PeerReview5.pdf)
+![](figures/peer_rev/PeerReview5.png)
 
 \newpage
-![](figures/peer_rev/PeerReview6.pdf)
+![](figures/peer_rev/PeerReview6.png)
 
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
