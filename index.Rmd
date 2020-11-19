@@ -1,6 +1,6 @@
 --- 
 title: "Virgina Technical Report"
-author: "Shawn, Joe, D.A"
+author: "Shawn, Joe, D.A, Sev"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
