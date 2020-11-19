@@ -1,2 +1,2 @@
-# VA_Tech_Repo
-This will serve as the repository for Virginia's Alternate Assessment Technical Report.
+# 2020 Virginia Alternate Assessment Technical report
+Repo to build the technical report book
