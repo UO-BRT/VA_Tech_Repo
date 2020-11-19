@@ -15,7 +15,7 @@ and results of the system.
 ![](figures/peer_rev/Critical_Elements_Reference_Tables.pdf)
 
 \newpage
-![](figures/peer_rev/PeerReview1.pdf)
+![](figures/peer_rev/PeerReview1.png)
 
 \newpage
 ![](figures/peer_rev/PeerReview2.pdf)
