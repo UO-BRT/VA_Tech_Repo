@@ -1,5 +1,9 @@
+Package: vatech
 Type: Book
 Title: Virgina Tech Report.
 Version: 0.0.1
-Imports: bookdown
+Imports: 
+    bookdown,
+    ggplot2,
+    janitor
 Remotes: rstudio/bookdown
